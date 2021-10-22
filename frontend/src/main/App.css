@@ -8,7 +8,7 @@
 
     --shadow:
         0 2px 23px 0 rgba(0, 0, 0.1)
-        0 2px 49px 0 rgba(0, 0, 0.6)
+        0 2px 49px 0 rgba(0, 0, 0.06)
 }
 
 * {
@@ -41,6 +41,10 @@ header.header {
 }
 
 aside.menu-area {
+    grid-area: menu;
+}
+
+main.content {
     grid-area: content;
 }
 
