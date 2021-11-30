@@ -11,9 +11,19 @@
       "email": "jariltonpereira02@hotmail.com"
     },
     {
-      "name": "Nilce Souza",
-      "email": "nilce@outlook.com",
+      "name": "Maria Deusdete",
+      "email": "maria@yahoo.com",
       "id": 3
+    },
+    {
+      "name": "Marcia Thaisa",
+      "email": "maciathaisa@outlook.com",
+      "id": 4
+    },
+    {
+      "name": "Natalia Favaro",
+      "email": "nataliafavaro@hotmail.com",
+      "id": 5
     }
   ]
 }
