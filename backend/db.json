@@ -1,29 +1,24 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Thalia Favaro",
-      "email": "thalia@gmail.com"
-    },
-    {
-      "id": 2,
       "name": "Jarilton Junior",
-      "email": "jariltonpereira02@hotmail.com"
+      "email": "jariltonpereira02@hotmail.com",
+      "id": 1
     },
     {
-      "name": "Maria Deusdete",
-      "email": "maria@yahoo.com",
+      "name": "Alisson Macedo",
+      "email": "alissontecnico@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Gabriel Soares",
+      "email": "gabriel@lanchonete.com",
       "id": 3
     },
     {
-      "name": "Marcia Thaisa",
-      "email": "maciathaisa@outlook.com",
+      "name": "Rian Reis",
+      "email": "rian.reis@alfreddelivery.com",
       "id": 4
-    },
-    {
-      "name": "Natalia Favaro",
-      "email": "nataliafavaro@hotmail.com",
-      "id": 5
     }
   ]
 }

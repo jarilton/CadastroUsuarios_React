@@ -5,7 +5,7 @@ import Main from "../template/Main"
 const headerProps = {
     icon: 'users',
     title: 'Usuários',
-    subtitle: 'Cadastro de usuários: Incluir, Listar, Alterar e Excluir'
+    subtitle: 'Cadastro'
 }
 
 const baseUrl = 'http://127.0.0.1:3001/users/'
@@ -86,7 +86,7 @@ export default class UserCrud extends Component {
                             Salvar
                         </button>
 
-                        <button className="btn btn-secondary ml-2"
+                        <button className="btn btn-danger ml-2"
                             onClick={e => this.clear(e)}>
                             Cancelar
                         </button>

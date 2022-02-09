@@ -1,20 +1,22 @@
 aside.menu-area {
-    background-color: black;
+    background-color: #2a2a7a;
     box-shadow: 
         2px 0 10px 0 rgba(0, 0, 0, 0.12),
         2px 0 15px 0 rgba(0, 0, 0, 0.9);
 }
 
-.menu a {
+nav.menu a {
     display: block;
     text-decoration: none;
     color:aliceblue;
     font-weight: 300;
     padding: 15px;
+
+    transition: filter 0.2s;
 }
 
-.menu a:hover {
-    background: linear-gradient(135deg, blue 0%, blue 100%);
+nav.menu a:hover {
+    filter: brightness(0.8);
 }
 
 @media(min-width: 768px) {

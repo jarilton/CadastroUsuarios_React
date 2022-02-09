@@ -1,5 +1,5 @@
 header.header {
-    background-color: royalblue;
+    background-color: #000;
     padding: 0px 15px;
     overflow: hidden;
     white-space: nowrap;
@@ -7,5 +7,14 @@ header.header {
 }
 
 header.header h1 {
+    margin-left: auto;
     font-size: 1.8;
+}
+
+header.header i {
+    color: #fff;
+}
+
+header.header p {
+    margin-left: auto;
 }
